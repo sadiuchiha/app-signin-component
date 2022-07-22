@@ -17,4 +17,5 @@ class SignUpPage:
         self.page.withdraw()
         self.root.mainloop()
 
-
+    def verify(self):
+        pass
